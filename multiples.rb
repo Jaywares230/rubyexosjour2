@@ -21,3 +21,4 @@ def multiples
 	
 		 total 
 	end 
+puts multiples
