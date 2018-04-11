@@ -21,10 +21,3 @@ def multiples
 	
 		 total 
 	end 
-
-puts multiples
-
-puts "ecris ta phrase"
-string_user = gets.chomp.to_s
-puts string_user + "\n"
-puts string_user.ord 
